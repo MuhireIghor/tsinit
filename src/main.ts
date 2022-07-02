@@ -48,3 +48,4 @@ class UserAccount{
 }
 const user2:Userinfo = new UserAccount("Muhire Ighor","Kibagabaga",5);
 console.log(user2.name);
+
