@@ -48,4 +48,8 @@ class UserAccount{
 }
 const user2:Userinfo = new UserAccount("Muhire Ighor","Kibagabaga",5);
 console.log(user2.name);
+const students : string[] = ['Muhire','Ighor','Manzi'];
+console.log(students[2]);
+function ageSelector
+
 

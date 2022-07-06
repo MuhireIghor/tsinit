@@ -24,3 +24,5 @@ class UserAccount {
 }
 const user2 = new UserAccount("Muhire Ighor", "Kibagabaga", 5);
 console.log(user2.name);
+const students = ['Muhire', 'Ighor', 'Manzi'];
+console.log(students[2]);
